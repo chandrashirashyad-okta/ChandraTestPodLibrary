@@ -13,10 +13,10 @@
 		6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
+		91699C401A4227140042CEE2 /* ChandraTestPodLibrary.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 91699C3F1A4227140042CEE2 /* ChandraTestPodLibrary.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		59243C5E22A3B8455F45D4BE /* ChandraTestPodLibrary.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ChandraTestPodLibrary.podspec; path = ../ChandraTestPodLibrary.podspec; sourceTree = "<group>"; };
 		5D733DBBD238D08D6D71607E /* Pods-ChandraTestPodLibrary.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChandraTestPodLibrary.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChandraTestPodLibrary/Pods-ChandraTestPodLibrary.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* ChandraTestPodLibrary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChandraTestPodLibrary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -30,6 +30,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		639D3473E8C86E492B35D04C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6E94E1FDFA642E04D9B30CCC /* libPods-ChandraTestPodLibrary.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ChandraTestPodLibrary.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		91699C3F1A4227140042CEE2 /* ChandraTestPodLibrary.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ChandraTestPodLibrary.podspec; path = ../ChandraTestPodLibrary.podspec; sourceTree = "<group>"; };
 		B338C43A95D7B0B19F7D439A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		C1712C92817A4F7036738F01 /* Pods-ChandraTestPodLibrary.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChandraTestPodLibrary.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChandraTestPodLibrary/Pods-ChandraTestPodLibrary.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -112,7 +113,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				59243C5E22A3B8455F45D4BE /* ChandraTestPodLibrary.podspec */,
+				91699C3F1A4227140042CEE2 /* ChandraTestPodLibrary.podspec */,
 				639D3473E8C86E492B35D04C /* README.md */,
 				B338C43A95D7B0B19F7D439A /* LICENSE */,
 			);
@@ -179,6 +180,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91699C401A4227140042CEE2 /* ChandraTestPodLibrary.podspec in Resources */,
 				6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
