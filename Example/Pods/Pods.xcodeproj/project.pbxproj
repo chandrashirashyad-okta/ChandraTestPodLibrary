@@ -329,6 +329,7 @@
 		9029F8972E6D64DBBB315557 /* Pods-ChandraTestPodLibrary-Kiwi-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChandraTestPodLibrary-Kiwi-Private.xcconfig"; sourceTree = "<group>"; };
 		90ED460BC0381826FC6EE2F3 /* KWMatchers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWMatchers.h; path = Classes/Core/KWMatchers.h; sourceTree = "<group>"; };
 		91699C411A4227F70042CEE2 /* MathFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MathFunctions.m; path = Pod/Classes/MathFunctions.m; sourceTree = "<group>"; };
+		91699C431A4241E10042CEE2 /* MathFunctions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MathFunctions.h; path = Pod/Classes/MathFunctions.h; sourceTree = "<group>"; };
 		923E0F43D340A32091D5EF40 /* KWBeZeroMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWBeZeroMatcher.m; path = Classes/Matchers/KWBeZeroMatcher.m; sourceTree = "<group>"; };
 		9244A24BF52C247D6B4D48E4 /* KWBeWithinMatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KWBeWithinMatcher.h; path = Classes/Matchers/KWBeWithinMatcher.h; sourceTree = "<group>"; };
 		9293659536FF95A4C888E035 /* KWContainStringMatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KWContainStringMatcher.m; path = Classes/Matchers/KWContainStringMatcher.m; sourceTree = "<group>"; };
@@ -559,6 +560,7 @@
 			children = (
 				4A67085EC443A22D2520C5C9 /* Support Files */,
 				91699C411A4227F70042CEE2 /* MathFunctions.m */,
+				91699C431A4241E10042CEE2 /* MathFunctions.h */,
 			);
 			name = ChandraTestPodLibrary;
 			path = ../..;

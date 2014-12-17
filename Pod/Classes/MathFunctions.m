@@ -8,14 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface MathFunctions : NSObject
-
-- (NSArray *) fibonacci:(NSInteger) n;
-- (NSInteger) factorial:(NSInteger) n;
-
-@end
-
-
 @implementation MathFunctions
 
 - (NSArray *) fibonacci:(NSInteger) n {
