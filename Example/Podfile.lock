@@ -1,0 +1,17 @@
+PODS:
+  - ChandraTestPodLibrary (0.1.0)
+  - Kiwi (2.3.1)
+
+DEPENDENCIES:
+  - ChandraTestPodLibrary (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  ChandraTestPodLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ChandraTestPodLibrary: dd8b2a9a08a9a96d65aeb2368a22b924904bdbbf
+  Kiwi: 73e1400209055ee9c8ba78c6012b6b642d0fb9f7
+
+COCOAPODS: 0.35.0
