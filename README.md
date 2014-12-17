@@ -26,3 +26,7 @@ Chandra Shirashyad, chandra.shirashyad@okta.com
 
 ChandraTestPodLibrary is available under the MIT license. See the LICENSE file for more info.
 
+=======
+ChandraTestPodLibrary
+=====================
+>>>>>>> 8e6d4c0b4803975d7931da87b991e68f33e2d56d
